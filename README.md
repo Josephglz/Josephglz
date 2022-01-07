@@ -3,7 +3,7 @@
 ### <div align="center">I'm Joseph, Computer Systems Engineer Student💻 Developing since 2016 🚀</div>
   
 
-- 🛠 I’m currently working on [Punto de Venta C#](https://github.com/Josephglz/PuntoDeVenta)  
+- 🛠 I’m currently working on [Punto de Venta C#](https://github.com/Josephglz/PuntoDeVenta).
   
 
 - 🌱 I’m currently learning Docker, Flutter and Go.
