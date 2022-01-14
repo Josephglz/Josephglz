@@ -6,7 +6,7 @@
 - 🛠 I’m currently working on [Punto de Venta C#](https://github.com/Josephglz/PuntoDeVenta).
   
 
-- 🌱 I’m currently learning Docker, Flutter and Go.
+- 🌱 I’m currently learning ASP.NET MVC, Flutter/Dart.
 
 - 🌐 My website: [Website](http://josephglz.tech).
 
