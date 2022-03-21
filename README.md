@@ -3,10 +3,10 @@
 ### <div align="center">I'm Joseph, Computer Systems Engineer Student💻 Developing since 2016 🚀</div>
   
 
-- 🛠 I’m currently working on [Punto de Venta C#](https://github.com/Josephglz/PuntoDeVenta).
+- 🛠 I’m currently working on 📱[Restaurant App](https://github.com/Josephglz/Restaurant-App).
   
 
-- 🌱 I’m currently learning ASP.NET MVC, Flutter/Dart.
+- 🌱 I’m currently learning Flutter, Laravel, ASP.NET MVC.
 
 - 🌐 My website: [Website](http://josephglz.tech).
 
@@ -43,14 +43,15 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Josephglz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 450px"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephglz&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 350px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josephglz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephglz&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 300px" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephglz&" alt="josephglz" style="width: 300px" />
 </div>
 <br/>
 
 ## Logros
-[![trophy](https://github-profile-trophy.vercel.app/?username=Josephglz&theme=nord&row=1&column=6)](http://josephglz.tech)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Josephglz&theme=nord&row=1&column=9)](http://josephglz.tech)  
 <br/>
 
 ## Redes Sociales  
