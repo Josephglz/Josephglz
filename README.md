@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Flutter, Laravel, ASP.NET MVC.
 
-- 🌐 My website: [Website](http://josephglz.tech).
+- 🌐 My website: [Website](http://josephglz.me).
 
 <br/>
 
