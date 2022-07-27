@@ -3,11 +3,10 @@
   
 
 - 🛠 I’m currently working on 📱[Restaurant App](https://github.com/Josephglz/Restaurant-App).
-  
 
 - 🌱 I’m currently learning Flutter, Laravel, ASP.NET MVC.
 
-- 🌐 My website: [Website](http://josephglz.me).
+- 🌐 Check my website on: [https://josephglz.me](http://josephglz.me).
 
 <br/>
 
