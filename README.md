@@ -2,11 +2,11 @@
 ### <div align="center">I'm Joseph, Computer Systems Engineer Student💻 Developing since 2016 🚀</div>
   
 
-- 🛠 I’m currently working on 📱[Restaurant App](https://github.com/Josephglz/Restaurant-App).
+- 🛠 I’m currently working on 📱[Restaurant App](https://github.com/Josephglz/Restaurant-App)
 
-- 🌱 I’m currently learning Flutter, Laravel, ASP.NET MVC.
+- 🌱 I’m currently learning Angular, Laravel, ASP.NET MVC, MeanJS.
 
-- 🌐 Check my website on: [https://josephglz.me](http://josephglz.me).
+- 🌐 Check my website on: [https://josephglz.me](http://josephglz.me)
 
 <br/>
 
