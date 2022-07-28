@@ -24,6 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=JosephGlz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JosephGlz&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGlz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Josephglz&theme=react-dark&hide_border=true)](https://github.com/Josephglz)
 
 </div>
 
@@ -32,6 +33,13 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Josephglz&theme=tokyonight)
 
+</div>
+
+# 🕛 Recent Projects
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=JG-Notes&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/JG-Notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=MyWeather&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/MyWeather)
 
 </div>
 
