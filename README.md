@@ -31,7 +31,7 @@
 # 🏆 GitHub Trophies
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Josephglz&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=Josephglz&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight)
 
 </div>
 
