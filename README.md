@@ -2,7 +2,7 @@
 ### <div align="center">I'm Joseph, Computer Systems Engineer Student💻 Developing since 2016 🚀</div>
   
 
-- 🛠 I’m currently working on 💻[Bolsa de Trabajo UAT](https://github.com/Campus-TD/Bolsa-Trabajo) 📷[Lib-A-Pic](https://github.com/Fennec-Studio/Lib-A-Pic)
+- 🛠 I’m currently working on 💻[Bolsa de Trabajo UAT](https://github.com/Campus-TD/Bolsa-Trabajo) | 💻[Lib-A-Pic](https://github.com/Fennec-Studio/Lib-A-Pic)
 
 - 🌱 I’m currently learning Angular, Laravel, ASP.NET MVC, MeanJS.
 
