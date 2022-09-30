@@ -73,4 +73,6 @@
 <br />
 
 ----
-[![](https://visitcount.itsvg.in/api?id=JosephGlz&icon=9&color=1)](https://visitcount.itsvg.in)
+
+[![@josephglz's Holopin board](https://holopin.io/api/user/board?user=josephglz)](https://holopin.io/@josephglz)
+
