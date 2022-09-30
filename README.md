@@ -1,3 +1,6 @@
+
+[![@josephglz's Holopin board](https://holopin.io/api/user/board?user=josephglz)](https://holopin.io/@josephglz)
+
 # 💫 About Me
 ### <div align="center">I'm Joseph, Computer Systems Engineer Student💻 Developing since 2016 🚀</div>
   
@@ -73,6 +76,3 @@
 <br />
 
 ----
-
-[![@josephglz's Holopin board](https://holopin.io/api/user/board?user=josephglz)](https://holopin.io/@josephglz)
-
