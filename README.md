@@ -5,9 +5,9 @@
 ### <div align="center">I'm Joseph, Computer Systems Engineer Student💻 Developing since 2016 🚀</div>
   
 
-- 🛠 I’m currently working on 💻[Bolsa de Trabajo UAT](https://github.com/Campus-TD/Bolsa-Trabajo) | 💻[Lib-A-Pic](https://github.com/Fennec-Studio/Lib-A-Pic)
+- 🛠 I’m currently working on 💻[Bolsa de Trabajo UAT](https://github.com/JosephGlz/BolsaTrabajo) | 💻[POS Web](https://github.com/Fennec-Studio/POS-Web)
 
-- 🌱 I’m currently learning Angular, Laravel, ASP.NET MVC, MeanJS.
+- 🌱 I’m currently learning Angular, React, Go.
 
 - 🌐 Check my website on: [https://josephglz.me](http://josephglz.me)
 
@@ -27,8 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JosephGlz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JosephGlz&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGlz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Josephglz&theme=react-dark&hide_border=true)](https://github.com/Josephglz)
-
 </div>
 
 # 🏆 GitHub Trophies
@@ -41,7 +39,7 @@
 # 🕛 Recent Projects
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=campus-td&repo=Bolsa-Trabajo&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Campus-TD/Bolsa-Trabajo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=BolsaTrabajo&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/BolsaTrabajo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=campus-td&repo=website&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Campus-TD/website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=JG-Notes&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/JG-Notes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=MyWeather&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/MyWeather)
