@@ -5,7 +5,7 @@
 ### <div align="center">I'm Joseph, Computer Systems Engineer💻 Developing since 2016 🚀</div>
   
 
-- 🛠 I’m currently working on 💻[Bolsa de Trabajo](https://github.com/Fennec-Studio/FiJo-App) | 💻[TutorIA APP](https://github.com/Campus-TD/API-TutorIA)
+- 🛠 I’m currently working on 💼[Bolsa de Trabajo](https://github.com/Fennec-Studio/FiJo-App) | 🎓[AprendeUAT](https://github.com/Josephglz/AprendeUAT)
 
 - 🌱 I’m currently learning Go, Carbon, Swift.
 
@@ -39,9 +39,9 @@
 # 🕛 Recent Projects
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=BolsaTrabajo&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/BolsaTrabajo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=campus-td&repo=website&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Campus-TD/website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=JG-Notes&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/JG-Notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=AprendeUAT&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/AprendeUAT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fennec-Studio&repo=FiJo-App&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Fennec-Studio/FiJo-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Campus-TD&repo=API-TutorIA&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Campus-TD/API-TutorIA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephglz&repo=MyWeather&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/Josephglz/MyWeather)
 
 
