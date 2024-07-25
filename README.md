@@ -5,9 +5,9 @@
 ### <div align="center">I'm Joseph, Computer Systems Engineer💻 Developing since 2016 🚀</div>
   
 
-- 🛠 I’m currently working on 💼[Bolsa de Trabajo](https://github.com/Fennec-Studio/FiJo-App) | 🎓[AprendeUAT](https://github.com/Josephglz/AprendeUAT)
+- 🛠 I’m currently working on 🎓[AprendeUAT](https://github.com/Josephglz/AprendeUAT) | 🤖[TutorIA](https://github.com/Josephglz/TutorIA)
 
-- 🌱 I’m currently learning Go, Carbon, Swift.
+- 🌱 I’m currently learning React.
 
 - 🌐 Check my website on: [https://josephglz.com](http://josephglz.com)
 
@@ -74,6 +74,13 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/JosephGlz99)
 
 </div>
+<br />
+
+# ✍️ Recent Certifications
+<div align="center">
+<img src="https://images.credly.com/size/220x220/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png">
+</div>
+
 <br />
 
 ----
