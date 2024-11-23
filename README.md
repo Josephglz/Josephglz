@@ -1,5 +1,5 @@
 
-[![@josephglz's Holopin board](https://holopin.io/api/user/board?user=josephglz)](https://holopin.io/@josephglz)
+[![An image of @josephglz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/josephglz)](https://holopin.io/@josephglz)
 
 # 💫 About Me
 ### <div align="center">I'm Joseph, Computer Systems Engineer💻 Developing since 2016 🚀</div>
