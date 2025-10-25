@@ -6,7 +6,7 @@
   
 
 <!--- - 🛠 I’m currently working on 🎓[AprendeUAT](https://github.com/Josephglz/AprendeUAT) | 🤖[TutorIA](https://github.com/Josephglz/TutorIA) -->
-- 💼 Currently working at **Delegación de Transporte Público de Tampico** and **Brüder NDT** as **Fullstack Developer** | **TI Administrator**
+- 💼 Currently working at **MIND Growth Management** and **Brüder NDT** as **Fullstack Developer** | **TI Administrator**
 - 🌱 I’m currently learning Ruby on rails, Springboot.
 
 - 🌐 Check my website on: [https://josephglz.com](http://josephglz.com)
